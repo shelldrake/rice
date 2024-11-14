@@ -1,1 +1,1 @@
-# rice
+# Rice Configs
